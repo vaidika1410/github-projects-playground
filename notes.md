@@ -62,3 +62,28 @@ Whenever an issue is closed, the milestone is completed and the issue or task mo
 
 - When we add any assignees, we directly contact them using the **Add a comment** option in the Issues section.
   The use of '@' sign allows us to mention an assignee and the '#' sign allows us to mention an issue.
+
+**🔃 Creating Pull Requests (PRs)**
+A Pull Request is a way to propose changes you've made in a branch to be merged into the main codebase (usually the main or master branch). It enables code review, collaboration, and controlled updates.
+
+✅ Steps to Create a Pull Request:
+- Create a New Branch
+- When you create or edit a file in someone else's repository (or even your own), GitHub will automatically create a new branch—often named patch-1, patch-2, etc.
+- Commit Changes to That Branch
+- You write your changes and commit them to this new branch.
+- Open a Pull Request
+- After committing, GitHub will prompt you to “Compare & pull request.”
+- Add a title and description explaining what your changes do.
+- Submit the PR.
+
+👀 What Happens Next?
+- The repository owner or collaborators will see your pull request.
+- They can review your changes, suggest edits, or approve it.
+- If approved, they can click “Merge pull request” to add your changes to the main branch.
+- If not suitable, they may close the pull request or ask for revisions.
+
+💡 Notes:
+PRs are essential in open source for maintaining quality and collaboration.
+Always include clear commit messages and descriptions to help reviewers.
+Use PRs even in your own projects when following a team-like workflow or CI/CD automation.
+
