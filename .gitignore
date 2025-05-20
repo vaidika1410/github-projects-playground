@@ -1,1 +1,3 @@
 node_modules
+.tml
+npm_debug.log
