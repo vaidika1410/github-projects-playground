@@ -1,4 +1,5 @@
 **GitHub Project Management – Course Notes**
+
 Sub-course from: Career Essentials in GitHub (LinkedIn Learning)
 Instructor: Ray Villalobos
 
