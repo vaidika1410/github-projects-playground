@@ -64,6 +64,7 @@ Whenever an issue is closed, the milestone is completed and the issue or task mo
   The use of '@' sign allows us to mention an assignee and the '#' sign allows us to mention an issue.
 
 **🔃 Creating Pull Requests (PRs)**
+
 A Pull Request is a way to propose changes you've made in a branch to be merged into the main codebase (usually the main or master branch). It enables code review, collaboration, and controlled updates.
 
 ✅ Steps to Create a Pull Request:
