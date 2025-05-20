@@ -91,17 +91,21 @@ Use PRs even in your own projects when following a team-like workflow or CI/CD a
 **💬 Saved Replies (GitHub)**
 
 🔹 What Are They?
+
 Pre-written responses you can quickly insert in issue or PR comments—great for saving time and staying consistent.
 
 ⚙️ How to Enable:
+  
   Go to Profile → Settings → Saved replies.
   Click “Add saved reply”, give it a title and message, then save.
 
 💡 How to Use:
+ 
   In any issue or PR comment box, click the 💬 icon, then choose a saved reply.
   You can edit the message before posting.
 
 ✅ Use Cases:
+  
   Bug acknowledgment
   Contribution tips
   Common responses
