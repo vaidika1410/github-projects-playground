@@ -110,3 +110,77 @@ Pre-written responses you can quickly insert in issue or PR comments—great for
   Contribution tips
   Common responses
   Feature request replies
+
+**🏷️ Labels in GitHub**
+
+🔹 What Are Labels?
+- Labels are colored tags you can attach to issues and pull requests to categorize, prioritize, or indicate status.
+
+💡 Common Use Cases:
+- 📌 bug, feature, documentation
+- ⚡ high priority, enhancement, help wanted
+
+⚙️ How to Use:
+- Go to the “Issues” or “Pull Requests” tab.
+- Click on an issue → In the sidebar, find Labels.
+- Select from existing labels or create new ones via Repository → Issues → Labels.
+
+✅ Task Lists in GitHub
+
+🔹 What Are Task Lists?
+- Checklists in Markdown that help break down work inside issues, PRs, or comments.
+
+📝 Syntax:
+
+  markdown
+  Copy code
+  - [ ] Task 1
+  - [x] Task 2 (completed)
+        
+⚙️ How to Use:
+
+- Add a checklist in an issue description, comment, or PR.
+- GitHub auto-converts - [ ] and - [x] into interactive checkboxes.
+- Useful for tracking sub-tasks or progress inside a larger issue.
+
+💡 Use Cases:
+
+- Breaking features into steps
+- Sprint planning or progress tracking
+- To-dos for reviewers or maintainers
+
+**⌨️ Slash Commands in GitHub**
+
+🔹 What Are Slash Commands?
+  Slash commands are quick text commands you type into issue or pull request comments to   perform specific actions without leaving the comment box.
+
+  They usually begin with / and are supported only in GitHub repositories with GitHub Actions or bots (like GitHub CLI, Probot, or integrations like @github-actions).
+
+⚙️ Common Slash Commands:
+(May vary based on tools or bots in use)
+
+/assign @username – Assigns an issue or PR to a user
+
+/close – Closes the current issue or PR
+
+/reopen – Reopens a closed issue or PR
+
+/label bug – Adds a label (like bug, enhancement)
+
+/unlabel bug – Removes a label
+
+/milestone "v1.0" – Assigns a milestone
+
+/cc @username – Notifies or tags a user
+
+/run – Triggers a GitHub Action workflow (if set up)
+
+💡 Where to Use:
+  In comments on issues or pull requests
+
+  Often used with GitHub bots or GitHub Actions
+
+✅ Use Cases:
+ - Speeding up project management
+ - Automating repetitive tasks
+ - Collaborating efficiently with teams and bots
