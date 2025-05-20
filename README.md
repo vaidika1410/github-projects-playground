@@ -1,5 +1,4 @@
 # github-projects-playground
-# GitHub Project Management Practice
 
 This repository contains hands-on exercises and notes from the **"GitHub Project Management and Collaboration"** sub-course of the *Career Essentials in GitHub Professional Certificate* by LinkedIn Learning.
 
